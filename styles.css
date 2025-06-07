@@ -136,6 +136,10 @@ body{
     justify-items: start;
 }
 
+.description_article_img{
+    justify-self: center;
+}
+
 .description_a{
     text-decoration: none;
 
